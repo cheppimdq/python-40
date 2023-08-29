@@ -1,5 +1,4 @@
-# python-40
+# Argentina Programa 4.0
+Programación con Python | Procesamiento de datos con Python
 
-Argentina Programa 4.0Programación con Python. Procesamiento de datos con Python
-
-assets/images/electrocat.png
+/40.png
