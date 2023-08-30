@@ -1,1 +1,1 @@
-![Argentina Programa 4.0](./b.png)
+![Argentina Programa 4.0](./b.jpg)
